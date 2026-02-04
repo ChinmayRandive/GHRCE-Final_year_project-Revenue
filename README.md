@@ -89,7 +89,7 @@ GHRCE-Final_Year_Project.pbix
 
 2. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/GHRCE-Final_Year_Project.git
+   https://github.com/ChinmayRandive/GHRCE-Final_year_project-Revenue.git
    ```
 
 3. **Open the Project**
